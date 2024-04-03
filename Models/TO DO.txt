@@ -1,0 +1,10 @@
+To Do:
+
+Create capacitor side covers for the left side 
+Create a part to hold servo in place for firing 
+Add hole in left stock side for anderson charging and SL data connectors
+Add a cut out in the stock parts for safety switch to fit 
+Divide up Top and Bottom cover parts to 3D print 
+Divide up Left and Right stock parts to 3D print 
+Make beauty covers easier to 3D print?
+
